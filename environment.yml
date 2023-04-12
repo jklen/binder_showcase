@@ -19,6 +19,7 @@ dependencies:
   - pip=23.0.1=pyhd8ed1ab_0
   - python=3.10.10=he550d4f_0_cpython
   - readline=8.2=h8228510_1
+  - rpy2=3.5.8=py310r42h0a54255_0
   - setuptools=67.6.1=pyhd8ed1ab_0
   - tk=8.6.12=h27826a3_0
   - wheel=0.40.0=pyhd8ed1ab_0
@@ -112,7 +113,6 @@ dependencies:
       - pyzmq==25.0.1
       - rfc3339-validator==0.1.4
       - rfc3986-validator==0.1.1
-      - rpy2==3.5.10
       - scikit-learn==1.2.2
       - scipy==1.10.1
       - seaborn==0.12.2
